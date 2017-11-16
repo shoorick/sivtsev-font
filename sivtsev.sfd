@@ -60,7 +60,8 @@ StartChar: uni0428
 Encoding: 1064 1064 0
 Width: 1000
 VWidth: 0
-Flags: HO
+HStem: 0 159.999<259.997 420.002 579.998 739.999>
+VStem: 100 159.997<159.999 800> 420.002 159.996<159.999 800> 739.999 160.001<159.999 800>
 LayerCount: 2
 Fore
 SplineSet
@@ -84,7 +85,9 @@ StartChar: uni0411
 Encoding: 1041 1041 1
 Width: 1000
 VWidth: 0
-Flags: H
+HStem: 0 160.04<259.96 713.817> 319.979 160.041<259.96 713.817> 639.96 160.04<259.96 900>
+VStem: 100 159.96<160.04 319.979 480.021 639.96> 740.04 159.96<186.064 294.034>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet

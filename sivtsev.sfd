@@ -60,12 +60,11 @@ StartChar: uni0428
 Encoding: 1064 1064 0
 Width: 1000
 VWidth: 0
-Flags: HO
 LayerCount: 2
 Fore
 SplineSet
-100 800 m 1
- 100 0 l 1
+100 800 m 5
+ 100 0 l 5
  900 0 l 1
  900 800 l 1
  739.999023438 800 l 1

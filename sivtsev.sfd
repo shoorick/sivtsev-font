@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1510809267
-ModificationTime: 1510828347
+ModificationTime: 1510828419
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 858 26 12
+WinInfo: 806 26 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 36
+BeginChars: 1114112 39
 
 StartChar: uni0428
 Encoding: 1064 1064 0
@@ -888,6 +888,48 @@ SplineSet
  740.041015625 284.239257812 704.202148438 319.98046875 660.009765625 319.98046875 c 2
  259.958984375 319.98046875 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni041E
+Encoding: 1054 1054 36
+Width: 1000
+VWidth: 0
+HStem: 0 150<401.395 598.605> 650 150<401.395 598.605>
+VStem: 100 150<301.395 498.605> 750 150<301.395 498.605>
+LayerCount: 2
+Fore
+SplineSet
+500 800 m 0
+ 720.799804688 800 900 620.799804688 900 400 c 0
+ 900 179.200195312 720.799804688 0 500 0 c 0
+ 279.200195312 0 100 179.200195312 100 400 c 0
+ 100 620.799804688 279.200195312 800 500 800 c 0
+500 650 m 0
+ 362 650 250 538 250 400 c 0
+ 250 262 362 150 500 150 c 0
+ 638 150 750 262 750 400 c 0
+ 750 538 638 650 500 650 c 0
+EndSplineSet
+EndChar
+
+StartChar: Omicron
+Encoding: 927 927 37
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 36 1054 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O
+Encoding: 79 79 38
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 36 1054 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1455.4419"
-     inkscape:cy="300.17634"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="619.50495"
+     inkscape:cy="599.83833"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1149"
      inkscape:window-x="1920"
@@ -57,7 +57,8 @@
     <path
        id="path2512"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28222224"
-       d="M 26.458333,32.416651 V 244.08332 H 238.125 V 32.416651 H 195.79146 V 201.75021 H 153.45792 V 32.416651 H 111.12543 V 201.75021 H 68.790815 V 32.416651 H 26.458333"
-       inkscape:connector-curvature="0" />
+       d="M 26.458333,244.08332 H 238.125 V 32.416651 H 195.79146 V 201.75021 H 153.45792 V 32.416651 H 111.12543 V 201.75021 H 68.790815 V 32.416651 H 26.458333 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1238"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="b.svg">
+   sodipodi:docname="t.svg">
   <defs
      id="defs1232" />
   <sodipodi:namedview
@@ -25,18 +25,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1455.4419"
-     inkscape:cy="300.17634"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.7"
+     inkscape:cx="470.49427"
+     inkscape:cy="637.67003"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1149"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4524"
+       empspacing="5"
+       spacingx="2.6458333"
+       spacingy="2.6458333"
+       units="px" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1235">
     <rdf:RDF>
@@ -45,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,9 +63,9 @@
      id="layer1"
      transform="translate(0,-32.41665)">
     <path
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28222224;opacity:0.8"
-       d="M 26.458333,32.416648 V 244.08332 H 174.62765 c 35.07099,0 63.49734,-28.45154 63.49734,-63.516 -3e-5,-35.06659 -28.42635,-63.48933 -63.49734,-63.48933 H 68.780973 V 74.760658 H 238.12499 V 32.416648 Z M 68.780973,159.42199 H 174.62765 c 11.69248,0 21.17464,9.45646 21.17467,21.14533 0,11.6878 -9.48222,21.172 -21.17467,21.172 H 68.780973 Z"
-       id="path2510"
-       inkscape:connector-curvature="0" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000042, 1.00000009;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 100 0 L 100 160 L 420 160 L 420 800 L 580 800 L 580 160 L 900 160 L 900 0 L 100 0 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,32.41665)"
+       id="rect4595" />
   </g>
 </svg>

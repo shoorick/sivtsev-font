@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1510809267
-ModificationTime: 1510829026
+ModificationTime: 1574432970
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 832 26 12
+WinInfo: 0 26 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 45
+BeginChars: 1114112 46
 
 StartChar: uni0428
 Encoding: 1064 1064 0
@@ -889,7 +889,7 @@ SplineSet
  740.041015625 284.239257812 704.202148438 319.98046875 660.009765625 319.98046875 c 2
  259.958984375 319.98046875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni041E
@@ -912,7 +912,7 @@ SplineSet
  638 150 750 262 750 400 c 0
  750 538 638 650 500 650 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Omicron
@@ -1024,7 +1024,7 @@ SplineSet
  100 640 l 1
  100 800.041015625 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: three
@@ -1039,6 +1039,30 @@ LayerCount: 2
 Fore
 Refer: 43 1047 N 1 0 0 1 0 0 2
 Validated: 1
+EndChar
+
+StartChar: F
+Encoding: 70 70 45
+Width: 1000
+VWidth: 0
+Flags: WO
+HStem: 0 21G<100 260> 320 160<260 900> 640 160<260 900>
+VStem: 100 160<0 320 480 640>
+LayerCount: 2
+Fore
+SplineSet
+260 0 m 5
+ 100 0 l 1
+ 100 800 l 1
+ 900 800 l 1
+ 900 640 l 1
+ 260 640 l 1
+ 260 480 l 1
+ 900 480 l 1
+ 900 320 l 1
+ 260 320 l 1
+ 260 0 l 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

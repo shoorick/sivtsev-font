@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1510809267
-ModificationTime: 1574507740
+ModificationTime: 1574507968
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 702 26 10
+WinInfo: 832 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -238,6 +238,7 @@ SplineSet
  260 800 l 1
  485 230 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0418
@@ -595,12 +596,13 @@ StartChar: Mu
 Encoding: 924 924 19
 Width: 1000
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<100 260 412.113 587.887 740 900> 780 20G<100 267.895 732.105 900>
 VStem: 100 160<0 420> 740 160<0 420>
 LayerCount: 2
 Fore
 Refer: 6 1052 S 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: Eta
@@ -696,12 +698,13 @@ StartChar: M
 Encoding: 77 77 26
 Width: 1000
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<100 260 412.113 587.887 740 900> 780 20G<100 267.895 732.105 900>
 VStem: 100 160<0 420> 740 160<0 420>
 LayerCount: 2
 Fore
 Refer: 6 1052 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: H
@@ -1064,6 +1067,7 @@ SplineSet
  260 320 l 1
  260 0 l 5
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: underscore
@@ -1081,6 +1085,7 @@ SplineSet
  0 -200 l 1
  0 -100 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Xi
@@ -1109,6 +1114,7 @@ SplineSet
  900 0 l 1
  100 0 l 5
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: V
@@ -1131,6 +1137,7 @@ SplineSet
  420 0 l 1
  100 800 l 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Lambda
@@ -1142,16 +1149,18 @@ HStem: 0 20G<100 270.789 729.211 900> 779 21G<412 588>
 LayerCount: 2
 Fore
 Refer: 48 86 S -1 0 0 -1 1000 800 2
+Validated: 1
 EndChar
 
 StartChar: Sigma
 Encoding: 931 931 50
 Width: 1000
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 6 1052 S 0 1 -1 0 900 -100 2
+Validated: 1
 EndChar
 
 StartChar: uni0394
@@ -1159,22 +1168,23 @@ Encoding: 916 916 51
 Width: 1000
 VWidth: 0
 Flags: WO
-HStem: 0 160<325.316 674.684> 780 20G<412 588>
+HStem: 0 160<325 675> 780 20G<412 588>
 LayerCount: 2
 Fore
 SplineSet
 900 0 m 5
  100 0 l 5
- 420 800 l 1
- 580 800 l 1
+ 420 800 l 5
+ 580 800 l 5
  900 0 l 5
-674.684210526 160 m 1
- 515 570 l 1
- 500 625 l 1
- 485 570 l 1
- 325.315789474 160 l 1
- 674.684210526 160 l 1
+675 160 m 5
+ 515 570 l 5
+ 500 625 l 5
+ 485 570 l 5
+ 325 160 l 5
+ 675 160 l 5
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

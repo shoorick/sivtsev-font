@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: Sivtsev-Eye-Chart
 FullName: Sivtsev Eye Chart
 FamilyName: Sivtsev
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1510809267
-ModificationTime: 1574507968
+ModificationTime: 1665062436
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 832 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 52
+BeginChars: 1114112 53
 
 StartChar: uni0428
 Encoding: 1064 1064 0
@@ -245,26 +245,25 @@ StartChar: uni0418
 Encoding: 1048 1048 7
 Width: 1000
 VWidth: 0
-HStem: 0 21G<100 260.044 740.029 900> 780 20G<100 260.044 740.029 900>
-VStem: 100 160.044<0 40.0557 280.002 800> 740.029 159.971<0 519.974 759.969 800>
+HStem: 0 21G<100 277.091 740 900> 780 20G<100 260 722.909 900>
+VStem: 100 160<230 800> 740 160<0 570>
 LayerCount: 2
 Fore
 SplineSet
-100 0 m 1
- 100 800 l 1
- 260.043945312 800 l 1
- 260.043945312 280.001953125 l 1
- 740.029296875 759.96875 l 1
- 740.029296875 800 l 1
+740 800 m 1
  900 800 l 1
  900 0 l 1
- 740.029296875 0 l 1
- 740.029296875 519.973632812 l 1
- 260.043945312 40.0556640625 l 1
- 260.043945312 0 l 1
+ 740 0 l 1
+ 740 570 l 1
+ 730 550 l 1
+ 260 0 l 1
  100 0 l 1
+ 100 800 l 1
+ 260 800 l 1
+ 260 230 l 1
+ 270 250 l 1
+ 740 800 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni042B
@@ -596,7 +595,7 @@ StartChar: Mu
 Encoding: 924 924 19
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<100 260 412.113 587.887 740 900> 780 20G<100 267.895 732.105 900>
 VStem: 100 160<0 420> 740 160<0 420>
 LayerCount: 2
@@ -698,7 +697,7 @@ StartChar: M
 Encoding: 77 77 26
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<100 260 412.113 587.887 740 900> 780 20G<100 267.895 732.105 900>
 VStem: 100 160<0 420> 740 160<0 420>
 LayerCount: 2
@@ -805,26 +804,23 @@ Encoding: 925 925 32
 Width: 1000
 VWidth: 0
 Flags: W
-HStem: 0 21G<100 260 740 900> 780 20G<100 260 740 900>
-VStem: 100 160<0 520 760 800> 740 160<0 40 280 800>
 LayerCount: 2
 Fore
 SplineSet
-900 0 m 5
- 740 0 l 5
- 740 40 l 5
- 260 520 l 5
- 260 0 l 5
- 100 0 l 5
+260 800 m 5
  100 800 l 5
- 260 800 l 5
- 260 760 l 5
- 740 280 l 5
- 740 800 l 5
- 900 800 l 5
+ 100 0 l 5
+ 260 0 l 5
+ 260 570 l 5
+ 270 550 l 5
+ 740 0 l 5
  900 0 l 5
+ 900 800 l 5
+ 740 800 l 5
+ 740 230 l 5
+ 730 250 l 5
+ 260 800 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: N
@@ -832,12 +828,9 @@ Encoding: 78 78 33
 Width: 1000
 VWidth: 0
 Flags: W
-HStem: 0 21G<100 260 740 900> 780 20G<100 260 740 900>
-VStem: 100 160<0 520 760 800> 740 160<0 40 280 800>
 LayerCount: 2
 Fore
 Refer: 32 925 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0422
@@ -1156,7 +1149,7 @@ StartChar: Sigma
 Encoding: 931 931 50
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 6 1052 S 0 1 -1 0 900 -100 2
@@ -1167,7 +1160,7 @@ StartChar: uni0394
 Encoding: 916 916 51
 Width: 1000
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 160<325 675> 780 20G<412 588>
 LayerCount: 2
 Fore
@@ -1185,6 +1178,14 @@ SplineSet
  675 160 l 5
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: Zeta
+Encoding: 918 918 52
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

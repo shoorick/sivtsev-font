@@ -1,6 +1,6 @@
 # Sivtsev eye chart font
 
-Font with square letters which used in Russian charts for eye checking
+Font contains square letters which used in Russian charts for eye checking and their derivatives.
 
 ## See also
 
@@ -8,13 +8,20 @@ Font with square letters which used in Russian charts for eye checking
 
 -------------------------------
 
-_The same in Russian_
+_More information in Russian_
 
 # Шрифт таблицы Сивцева
 
 В таблице для проверки остроты зрения, разработанной в 1923 году советскими офтальмологами С. Головиным и  Д. Сивцевым,
 используются семь русских букв:
+
 Б И К М Н Ш Ы
+
+В этом шрифте есть как эти буквы, взятые из таблицы, так и производные от них — заглавные
+
+* Греческие — ΒΓΔΕΖΗΚΛΜΝΞΟΠΡΣΤΧ
+* Кириллические — БВГЕЖЗИКМНОПРТХЩЪЫЬЯ
+* Латинские — BEFHKLMNOPQRSTVXZ
 
 ## См. также
 

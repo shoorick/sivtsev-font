@@ -1,6 +1,7 @@
 # Sivtsev eye chart font
 
-Font contains square letters which used in Russian charts for eye checking and their derivatives.
+Font contains square letters which used in Soviet and Russian charts
+for eye checking and their derivatives.
 
 ## See also
 
@@ -19,9 +20,9 @@ _More information in Russian_
 
 В этом шрифте есть как эти буквы, взятые из таблицы, так и производные от них — заглавные
 
-* Греческие — ΒΓΔΕΖΗΚΛΜΝΞΟΠΡΣΤΧ
-* Кириллические — БВГЕЖЗИКМНОПРТХЩЪЫЬЯ
-* Латинские — BEFHKLMNOPQRSTVXZ
+- Греческие — ΒΓΔΕΖΗΚΛΜΝΞΟΠΡΣΤΧ
+- Кириллические — БВГЕЖЗИКМНОПРТХШЪЫЬЯ
+- Латинские — BEFHKLMNOPQRSTVXZ
 
 ## См. также
 
